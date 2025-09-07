@@ -1,4 +1,4 @@
-<h1>Wazuh Home Lab</h1>
+<h1>Home Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
